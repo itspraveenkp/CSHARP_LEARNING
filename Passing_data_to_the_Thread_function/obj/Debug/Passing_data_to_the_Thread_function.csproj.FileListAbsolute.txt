@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\bin\Debug\Passing_data_to_the_Thread_function.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\bin\Debug\Passing_data_to_the_Thread_function.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\bin\Debug\Passing_data_to_the_Thread_function.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\obj\Debug\Passing_data_to_the_Thread_function.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\obj\Debug\Passing_data_to_the_Thread_function.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Passing_data_to_the_Thread_function\obj\Debug\Passing_data_to_the_Thread_function.pdb

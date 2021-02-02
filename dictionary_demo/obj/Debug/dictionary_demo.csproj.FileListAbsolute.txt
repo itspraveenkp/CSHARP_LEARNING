@@ -1,0 +1,7 @@
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\bin\Debug\dictionary_demo.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\bin\Debug\dictionary_demo.exe
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\bin\Debug\dictionary_demo.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\obj\Debug\dictionary_demo.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\obj\Debug\dictionary_demo.exe
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\obj\Debug\dictionary_demo.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\dictionary_demo\obj\Debug\dictionary_demo.csprojAssemblyReference.cache

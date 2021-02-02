@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\bin\Debug\Optional_Parameters.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\bin\Debug\Optional_Parameters.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\bin\Debug\Optional_Parameters.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\obj\Debug\Optional_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\obj\Debug\Optional_Parameters.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Optional_Parameters\obj\Debug\Optional_Parameters.pdb

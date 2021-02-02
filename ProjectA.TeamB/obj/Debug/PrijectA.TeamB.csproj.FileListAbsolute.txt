@@ -1,0 +1,5 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\PrijectA.TeamB\bin\Debug\PrijectA.TeamB.dll
+C:\Users\pprajapa\source\repos\CSharp_Learning\PrijectA.TeamB\bin\Debug\PrijectA.TeamB.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\PrijectA.TeamB\obj\Debug\PrijectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\PrijectA.TeamB\obj\Debug\PrijectA.TeamB.dll
+C:\Users\pprajapa\source\repos\CSharp_Learning\PrijectA.TeamB\obj\Debug\PrijectA.TeamB.pdb

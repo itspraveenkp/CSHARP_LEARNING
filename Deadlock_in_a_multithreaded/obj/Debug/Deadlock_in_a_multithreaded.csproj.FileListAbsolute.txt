@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\bin\Debug\Deadlock_in_a_multithreaded.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\bin\Debug\Deadlock_in_a_multithreaded.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\bin\Debug\Deadlock_in_a_multithreaded.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\obj\Debug\Deadlock_in_a_multithreaded.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\obj\Debug\Deadlock_in_a_multithreaded.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Deadlock_in_a_multithreaded\obj\Debug\Deadlock_in_a_multithreaded.pdb

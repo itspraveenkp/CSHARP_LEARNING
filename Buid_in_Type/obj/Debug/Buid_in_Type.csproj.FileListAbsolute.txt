@@ -1,0 +1,13 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\bin\Debug\Buid_in_Type.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Buid_in_Type\obj\Debug\Buid_in_Type.pdb

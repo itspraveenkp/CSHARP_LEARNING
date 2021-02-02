@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.exe
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.exe
+C:\Users\itspr\source\repos\CSharp_Learning\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.pdb

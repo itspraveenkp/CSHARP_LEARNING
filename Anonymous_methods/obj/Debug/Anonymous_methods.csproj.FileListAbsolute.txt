@@ -1,0 +1,7 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\bin\Debug\Anonymous_methods.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\bin\Debug\Anonymous_methods.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\bin\Debug\Anonymous_methods.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\obj\Debug\Anonymous_methods.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\obj\Debug\Anonymous_methods.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\obj\Debug\Anonymous_methods.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods\obj\Debug\Anonymous_methods.pdb

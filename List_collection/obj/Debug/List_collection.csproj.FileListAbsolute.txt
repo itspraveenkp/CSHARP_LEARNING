@@ -1,0 +1,7 @@
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\bin\Debug\List_collection.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\bin\Debug\List_collection.exe
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\bin\Debug\List_collection.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\obj\Debug\List_collection.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\obj\Debug\List_collection.exe
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\obj\Debug\List_collection.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\List_collection\obj\Debug\List_collection.csprojAssemblyReference.cache

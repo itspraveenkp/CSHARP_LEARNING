@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\bin\Debug\Problems_of_multiple_class_inheritance.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\bin\Debug\Problems_of_multiple_class_inheritance.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\bin\Debug\Problems_of_multiple_class_inheritance.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\obj\Debug\Problems_of_multiple_class_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\obj\Debug\Problems_of_multiple_class_inheritance.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Problems_of_multiple_class_inheritance\obj\Debug\Problems_of_multiple_class_inheritance.pdb

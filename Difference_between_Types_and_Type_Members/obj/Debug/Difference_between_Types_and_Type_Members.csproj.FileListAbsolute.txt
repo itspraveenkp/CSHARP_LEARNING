@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\bin\Debug\Difference_between_Types_and_Type_Members.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\bin\Debug\Difference_between_Types_and_Type_Members.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\bin\Debug\Difference_between_Types_and_Type_Members.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\obj\Debug\Difference_between_Types_and_Type_Members.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\obj\Debug\Difference_between_Types_and_Type_Members.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Types_and_Type_Members\obj\Debug\Difference_between_Types_and_Type_Members.pdb

@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\bin\Debug\Delegates_Usage.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\bin\Debug\Delegates_Usage.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\bin\Debug\Delegates_Usage.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\obj\Debug\Delegates_Usage.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\obj\Debug\Delegates_Usage.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates_Usage\obj\Debug\Delegates_Usage.pdb

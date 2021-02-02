@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\bin\Debug\Enum_Example.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\bin\Debug\Enum_Example.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\bin\Debug\Enum_Example.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\obj\Debug\Enum_Example.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\obj\Debug\Enum_Example.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Enum_Example\obj\Debug\Enum_Example.pdb

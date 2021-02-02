@@ -1,0 +1,10 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\bin\Debug\Async_and_await.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\bin\Debug\Async_and_await.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\bin\Debug\Async_and_await.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.Form1.resources
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.Properties.Resources.resources
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.csproj.GenerateResource.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Async_and_await\obj\Debug\Async_and_await.pdb

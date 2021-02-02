@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\bin\Debug\Difference_between_Monitor_and_lock.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\bin\Debug\Difference_between_Monitor_and_lock.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\bin\Debug\Difference_between_Monitor_and_lock.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\obj\Debug\Difference_between_Monitor_and_lock.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\obj\Debug\Difference_between_Monitor_and_lock.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_Monitor_and_lock\obj\Debug\Difference_between_Monitor_and_lock.pdb

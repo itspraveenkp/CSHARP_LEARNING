@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\bin\Debug\Access_Modifiers.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\bin\Debug\Access_Modifiers.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\bin\Debug\Access_Modifiers.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\obj\Debug\Access_Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\obj\Debug\Access_Modifiers.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Access_Modifiers\obj\Debug\Access_Modifiers.pdb

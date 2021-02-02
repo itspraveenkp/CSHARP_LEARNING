@@ -1,0 +1,7 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\bin\Debug\Func_delegate.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\bin\Debug\Func_delegate.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\bin\Debug\Func_delegate.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\obj\Debug\Func_delegate.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\obj\Debug\Func_delegate.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\obj\Debug\Func_delegate.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Func_delegate\obj\Debug\Func_delegate.pdb

@@ -1,0 +1,13 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.csprojAssemblyReference.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\bin\Debug\Whileloop.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Whileloop\obj\Debug\Whileloop.pdb

@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\bin\Debug\Abstract_classes.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\bin\Debug\Abstract_classes.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\bin\Debug\Abstract_classes.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\obj\Debug\Abstract_classes.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\obj\Debug\Abstract_classes.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Abstract_classes\obj\Debug\Abstract_classes.pdb

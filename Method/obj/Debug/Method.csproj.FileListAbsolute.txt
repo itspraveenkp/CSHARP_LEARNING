@@ -1,0 +1,13 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\bin\Debug\Method.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\bin\Debug\Method.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\bin\Debug\Method.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\obj\Debug\Method.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\obj\Debug\Method.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Method\bin\Debug\Method.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Method\bin\Debug\Method.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Method\bin\Debug\Method.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Method\obj\Debug\Method.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Method\obj\Debug\Method.pdb

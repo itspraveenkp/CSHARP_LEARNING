@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Inheritance\obj\Debug\Inheritance.pdb

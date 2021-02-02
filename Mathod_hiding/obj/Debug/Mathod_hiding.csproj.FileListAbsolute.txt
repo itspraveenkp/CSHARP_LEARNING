@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\bin\Debug\Mathod_hiding.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\bin\Debug\Mathod_hiding.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\bin\Debug\Mathod_hiding.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\obj\Debug\Mathod_hiding.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\obj\Debug\Mathod_hiding.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Mathod_hiding\obj\Debug\Mathod_hiding.pdb

@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\bin\Debug\Classes.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\bin\Debug\Classes.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\bin\Debug\Classes.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\obj\Debug\Classes.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Classes\obj\Debug\Classes.pdb

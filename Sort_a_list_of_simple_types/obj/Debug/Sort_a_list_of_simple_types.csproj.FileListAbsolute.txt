@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\bin\Debug\Sort_a_list_of_simple_types.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\bin\Debug\Sort_a_list_of_simple_types.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\bin\Debug\Sort_a_list_of_simple_types.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\obj\Debug\Sort_a_list_of_simple_types.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\obj\Debug\Sort_a_list_of_simple_types.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Sort_a_list_of_simple_types\obj\Debug\Sort_a_list_of_simple_types.pdb

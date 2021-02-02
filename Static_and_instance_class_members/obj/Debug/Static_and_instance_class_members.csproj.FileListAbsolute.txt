@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\bin\Debug\Static_and_instance_class_members.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\bin\Debug\Static_and_instance_class_members.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\bin\Debug\Static_and_instance_class_members.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\obj\Debug\Static_and_instance_class_members.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\obj\Debug\Static_and_instance_class_members.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Static_and_instance_class_members\obj\Debug\Static_and_instance_class_members.pdb

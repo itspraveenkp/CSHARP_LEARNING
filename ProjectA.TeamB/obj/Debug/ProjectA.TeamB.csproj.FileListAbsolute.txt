@@ -1,0 +1,11 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.dll
+C:\Users\pprajapa\source\repos\CSharp_Learning\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.dll
+C:\Users\pprajapa\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.dll
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.dll
+C:\Users\itspr\source\repos\CSharp_Learning\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.pdb

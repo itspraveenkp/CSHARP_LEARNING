@@ -1,0 +1,14 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.csprojAssemblyReference.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\bin\Debug\Reading_writing _console.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Reading_writing _console\obj\Debug\Reading_writing _console.csprojAssemblyReference.cache

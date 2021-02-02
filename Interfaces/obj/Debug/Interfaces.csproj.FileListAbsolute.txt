@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Interfaces\obj\Debug\Interfaces.pdb

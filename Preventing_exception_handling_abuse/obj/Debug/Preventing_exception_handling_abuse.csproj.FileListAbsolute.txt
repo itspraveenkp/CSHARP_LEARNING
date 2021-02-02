@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\bin\Debug\Preventing_exception_handling_abuse.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\bin\Debug\Preventing_exception_handling_abuse.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\bin\Debug\Preventing_exception_handling_abuse.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\obj\Debug\Preventing_exception_handling_abuse.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\obj\Debug\Preventing_exception_handling_abuse.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Preventing_exception_handling_abuse\obj\Debug\Preventing_exception_handling_abuse.pdb

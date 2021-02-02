@@ -1,0 +1,12 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\bin\Debug\Datatypes_conversion.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Datatypes_conversion\obj\Debug\Datatypes_conversion.pdb

@@ -1,0 +1,12 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\bin\Debug\Comments.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Comments\obj\Debug\Comments.pdb

@@ -1,0 +1,13 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.exe
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\bin\Debug\CSharp_Learning.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.exe
+C:\Users\itspr\source\repos\CSharp_Learning\CSharp_Learning\obj\Debug\CSharp_Learning.pdb

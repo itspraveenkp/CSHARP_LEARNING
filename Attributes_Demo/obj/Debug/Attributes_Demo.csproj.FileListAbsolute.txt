@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\bin\Debug\Attributes_Demo.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\bin\Debug\Attributes_Demo.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\bin\Debug\Attributes_Demo.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\obj\Debug\Attributes_Demo.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\obj\Debug\Attributes_Demo.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Attributes_Demo\obj\Debug\Attributes_Demo.pdb

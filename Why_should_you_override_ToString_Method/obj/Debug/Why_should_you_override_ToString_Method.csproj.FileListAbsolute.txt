@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\bin\Debug\Why_should_you_override_ToString_Method.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\bin\Debug\Why_should_you_override_ToString_Method.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\bin\Debug\Why_should_you_override_ToString_Method.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\obj\Debug\Why_should_you_override_ToString_Method.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\obj\Debug\Why_should_you_override_ToString_Method.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Why_should_you_override_ToString_Method\obj\Debug\Why_should_you_override_ToString_Method.pdb

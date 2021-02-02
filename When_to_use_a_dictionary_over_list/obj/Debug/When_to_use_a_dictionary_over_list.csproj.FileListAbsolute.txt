@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\bin\Debug\When_to_use_a_dictionary_over_list.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\bin\Debug\When_to_use_a_dictionary_over_list.exe
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\bin\Debug\When_to_use_a_dictionary_over_list.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\obj\Debug\When_to_use_a_dictionary_over_list.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\obj\Debug\When_to_use_a_dictionary_over_list.exe
+C:\Users\itspr\source\repos\CSharp_Learning\When_to_use_a_dictionary_over_list\obj\Debug\When_to_use_a_dictionary_over_list.pdb

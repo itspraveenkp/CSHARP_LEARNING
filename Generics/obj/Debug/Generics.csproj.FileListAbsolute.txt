@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\bin\Debug\Generics.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\bin\Debug\Generics.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\bin\Debug\Generics.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\obj\Debug\Generics.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Generics\obj\Debug\Generics.pdb

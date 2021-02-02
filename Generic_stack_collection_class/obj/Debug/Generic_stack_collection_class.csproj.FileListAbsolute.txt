@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\bin\Debug\Generic_stack_collection_class.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\bin\Debug\Generic_stack_collection_class.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\bin\Debug\Generic_stack_collection_class.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\obj\Debug\Generic_stack_collection_class.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\obj\Debug\Generic_stack_collection_class.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Generic_stack_collection_class\obj\Debug\Generic_stack_collection_class.pdb

@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\obj\Debug\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\obj\Debug\AssemblyOne.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyOne\obj\Debug\AssemblyOne.csprojAssemblyReference.cache

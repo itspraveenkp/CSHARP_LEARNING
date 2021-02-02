@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.pdb

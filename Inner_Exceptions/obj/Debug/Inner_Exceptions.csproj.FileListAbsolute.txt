@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\bin\Debug\Inner_Exceptions.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\bin\Debug\Inner_Exceptions.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\bin\Debug\Inner_Exceptions.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\obj\Debug\Inner_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\obj\Debug\Inner_Exceptions.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Inner_Exceptions\obj\Debug\Inner_Exceptions.pdb

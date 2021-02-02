@@ -1,0 +1,13 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.csprojAssemblyReference.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.exe
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\bin\Debug\String_type.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.exe
+C:\Users\itspr\source\repos\CSharp_Learning\String_type\obj\Debug\String_type.pdb

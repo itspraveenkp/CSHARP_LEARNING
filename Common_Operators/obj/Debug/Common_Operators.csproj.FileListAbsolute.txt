@@ -1,0 +1,12 @@
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.exe.config
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.pdb
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.csproj.CoreCompileInputs.cache
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.exe
+C:\Users\pprajapa\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\bin\Debug\Common_Operators.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Common_Operators\obj\Debug\Common_Operators.pdb

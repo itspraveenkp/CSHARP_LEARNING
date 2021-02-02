@@ -1,0 +1,16 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\bin\Debug\Anonymous_methods_win.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\bin\Debug\Anonymous_methods_win.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\bin\Debug\Anonymous_methods_win.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\MainWindow.g.cs
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\App.g.cs
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win_MarkupCompile.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win_MarkupCompile.lref
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\MainWindow.baml
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.g.resources
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.Form1.resources
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.Properties.Resources.resources
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.csproj.GenerateResource.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Anonymous_methods_win\obj\Debug\Anonymous_methods_win.pdb

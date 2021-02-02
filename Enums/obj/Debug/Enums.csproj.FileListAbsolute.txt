@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\bin\Debug\Enums.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\bin\Debug\Enums.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\bin\Debug\Enums.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\obj\Debug\Enums.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Enums\obj\Debug\Enums.pdb

@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\itspr\source\repos\CSharp_Learning\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,9 @@
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\bin\Debug\AssemblyOne.dll
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\bin\Debug\AssemblyOne.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\obj\Debug\AssemblyTwo.csprojAssemblyReference.cache
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CopyComplete
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Users\itspr\source\repos\CSharp_Learning\AssemblyTwo\obj\Debug\AssemblyTwo.pdb

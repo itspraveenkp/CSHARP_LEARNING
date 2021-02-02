@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\bin\Debug\Delegates.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\bin\Debug\Delegates.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\obj\Debug\Delegates.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Delegates\obj\Debug\Delegates.pdb

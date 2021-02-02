@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\bin\Debug\Late_binding_using_reflection.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\bin\Debug\Late_binding_using_reflection.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\bin\Debug\Late_binding_using_reflection.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\obj\Debug\Late_binding_using_reflection.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\obj\Debug\Late_binding_using_reflection.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Late_binding_using_reflection\obj\Debug\Late_binding_using_reflection.pdb

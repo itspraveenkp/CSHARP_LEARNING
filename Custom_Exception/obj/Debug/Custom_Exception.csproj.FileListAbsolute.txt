@@ -1,0 +1,6 @@
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\bin\Debug\Custom_Exception.exe.config
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\bin\Debug\Custom_Exception.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\bin\Debug\Custom_Exception.pdb
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\obj\Debug\Custom_Exception.csproj.CoreCompileInputs.cache
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\obj\Debug\Custom_Exception.exe
+C:\Users\itspr\source\repos\CSharp_Learning\Custom_Exception\obj\Debug\Custom_Exception.pdb
